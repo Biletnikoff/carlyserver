@@ -1,4 +1,4 @@
-var db = require('../../db/index.js');
+var db = require('./db/index.js');
 var bcrypt = require('bcrypt');
 
 module.exports = {
